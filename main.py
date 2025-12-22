@@ -1,1 +1,1 @@
-git add main.pygit statu
+git add main.pygit statutree /F
